@@ -11,3 +11,4 @@ setInterval(() =>
 setTimeout(function() {
    tapa.style.display = 'none';
 } , 4000);
+
