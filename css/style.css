@@ -1,6 +1,10 @@
 
 body {
     display: flex;
+    background-image: url(/pics/tq.jpeg);
+    background-size:  repeat;
+    
+    
 }
 
 .tapa {
