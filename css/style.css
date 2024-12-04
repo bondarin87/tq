@@ -9,14 +9,8 @@ body {
 }
 
 .tapa {
-
-    background-color: blue;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    font-size: 96px;
+    position:relative;
+    font-size:110px;
     justify-content:center;
     align-item:center;
  
@@ -24,6 +18,13 @@ body {
 
 }
 .wrap {
+        background-color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
      
     
 }
