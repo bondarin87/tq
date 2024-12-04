@@ -1,7 +1,7 @@
 
 body {
     display: flex;
-    background-image: url(pics/tq.jpeg);
+    background-image: url(tq.jpeg);
     background-size: cover;
 }
 
