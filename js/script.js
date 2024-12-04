@@ -1,5 +1,6 @@
 let body1 = document.querySelector('body');
 let tapa = document.querySelector('.tapa');
+let wrap = document.querySelector('.wrap');
 
 let i = 3;
 setInterval(() => 
@@ -7,6 +8,5 @@ setInterval(() =>
 	1000);
    
 setTimeout(function() {
-   tapa.style.display = 'none';
+   wrap.style.display = 'none';
 } , 4000);
-
